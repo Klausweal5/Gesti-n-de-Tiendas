@@ -1,0 +1,14 @@
+C:\Proyectos\tienda\bin\Debug\net10.0\tienda.exe
+C:\Proyectos\tienda\bin\Debug\net10.0\tienda.deps.json
+C:\Proyectos\tienda\bin\Debug\net10.0\tienda.runtimeconfig.json
+C:\Proyectos\tienda\bin\Debug\net10.0\tienda.dll
+C:\Proyectos\tienda\bin\Debug\net10.0\tienda.pdb
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.AssemblyInfoInputs.cache
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.AssemblyInfo.cs
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.csproj.CoreCompileInputs.cache
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.dll
+C:\Proyectos\tienda\obj\Debug\net10.0\refint\tienda.dll
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.pdb
+C:\Proyectos\tienda\obj\Debug\net10.0\tienda.genruntimeconfig.cache
+C:\Proyectos\tienda\obj\Debug\net10.0\ref\tienda.dll
